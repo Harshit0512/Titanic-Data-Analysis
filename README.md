@@ -17,7 +17,7 @@
 
 ## Resources Used
 * **Jupyter**
-* **Python 3.8.2**
+* **Python-3.8.2**
 * **Numpy-1.16.4**
 * **Pandas-0.24.2**
 * **Matplotlib-3.1.0**
