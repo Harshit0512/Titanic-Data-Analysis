@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0.24.2-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.9.0-fcba03)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.1.0-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-darkorange)
 
 ## Introduction
 * This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
