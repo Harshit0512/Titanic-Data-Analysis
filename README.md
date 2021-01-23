@@ -36,4 +36,4 @@
 * embarked - Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 ## Objective
-To find out the important features to predict the survival of people.
+To find out the important features to predict the survival of people onboard.
