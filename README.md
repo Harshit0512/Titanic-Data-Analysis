@@ -37,3 +37,20 @@
 
 ## Objective
 To find out the important features to predict the survival of people onboard.
+
+## Overview of data
+* Data columns (total 11 columns):
+* Column name    values     dtype
+* Survived    891 non-null  int64
+* Pclass      891 non-null  int64
+* Name        891 non-null  object
+* Sex         891 non-null  object
+* Age         714 non-null  float64
+* SibSp       891 non-null  int64
+* Parch       891 non-null  int64
+* Ticket      891 non-null  object
+* Fare        891 non-null  float64
+* Cabin       204 non-null  object
+
+**object** means **string** type.
+* Embarked    889 non-null object
