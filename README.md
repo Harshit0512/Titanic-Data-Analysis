@@ -34,3 +34,6 @@
 * fare	   - Passenger fare	
 * cabin	   - Cabin number	
 * embarked - Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+## Objective
+To find out the important features to predict the survival of people.
