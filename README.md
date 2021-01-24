@@ -10,7 +10,7 @@
 ## Introduction
 * This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 * Dataset Used from Kaggle - [[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)]
-* Download -  [[Download Dataset](https://www.kaggle.com/c/titanic/download)].
+* Download Data -  [[Download Dataset](https://www.kaggle.com/c/titanic/download)].
 * This dataset provides an opportunity to ask question which features are useful to predict the survival of people. 
 * Did **Exploratory Data Analysis (EDA)** and **Feature Selection** To get better results.
 * Did **Data Analysis**.
