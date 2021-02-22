@@ -52,6 +52,4 @@ To find out the important features to predict the survival of people onboard.
 * Ticket      891 non-null  object
 * Fare        891 non-null  float64
 * Cabin       204 non-null  object
-
-**object** means **string** type.
 * Embarked    889 non-null object
